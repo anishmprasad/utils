@@ -12,3 +12,5 @@ function aadhaar(e) {
 
 
 // aadhaar("821234324123") // false
+
+// Algorithm : https://en.wikibooks.org/wiki/Algorithm_Implementation/Checksums/Verhoeff_Algorithm#JavaScript
