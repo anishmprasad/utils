@@ -1,2 +1,7 @@
-# utils
+# Utils
+
 utils functions
+
+# Licence
+
+MIT
