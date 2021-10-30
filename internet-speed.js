@@ -8,8 +8,8 @@ import ndt7 from '@m-lab/ndt7';
 ndt7.test(
 			{
 				userAcceptedDataPolicy: true,
-				uploadworkerfile: "/ndt7-upload-worker.min.js",   // please check utils root folder
-				downloadworkerfile: "/ndt7-download-worker.min.js" // please check utils root folder
+				uploadworkerfile: "/ndt7-upload-worker.min.js", 
+				downloadworkerfile: "/ndt7-download-worker.min.js"
 			},
 			{
 			  serverChosen: function (server) {
