@@ -2,6 +2,9 @@
 
 utils functions
 
+1. Aadhaar Number Validation
+2. Internet Speed Service
+
 # Licence
 
-MIT
+Apache 2.0
