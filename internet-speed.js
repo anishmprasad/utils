@@ -32,8 +32,8 @@ ndt7.test(
 			  },
 			  uploadMeasurement: function(data) {
 				  if(data.Source === 'client'){
-					  // console.log('uploadMeasurement',data)
-            console.log(data?.Data?.MeanClientMbps?.toFixed(2))
+					 // console.log('uploadMeasurement',data)
+            				console.log(data?.Data?.MeanClientMbps?.toFixed(2))
 				  }
 			  },
 			  uploadComplete: function (data) {
